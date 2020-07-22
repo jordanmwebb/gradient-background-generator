@@ -1,7 +1,7 @@
 Gradient Background Generator
 ======
 
-https://github.com/jordanmwebb/gradient-background-generator.git
+https://jordanmwebb.github.io/gradient-background-generator/
 
 #### Tool created that allows users to select two colors from a color picker to create a gradient that can be used for styling a project.
 
